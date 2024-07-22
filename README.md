@@ -2,4 +2,4 @@
 
 Video test using video from web.archive.org
 
-> [**View video**](./index.html)
+> [**View video**](https://ytxmobile98.github.io/video-test/)
